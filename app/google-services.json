@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "838576559798",
-    "project_id": "fcm-test-6f0b2",
-    "storage_bucket": "fcm-test-6f0b2.appspot.com"
+    "project_number": "779050210469",
+    "project_id": "fcm-dev-4d6ee",
+    "storage_bucket": "fcm-dev-4d6ee.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:838576559798:android:f90b3b822231d0caacb817",
+        "mobilesdk_app_id": "1:779050210469:android:1f21c60040923e7ef3694c",
         "android_client_info": {
           "package_name": "com.iqbalriiaz.helloworldwithfcm"
         }
       },
       "oauth_client": [
         {
-          "client_id": "838576559798-hh6uljhboeo5oohhmm18r97l140r4rk9.apps.googleusercontent.com",
+          "client_id": "779050210469-b3g3lcn1cjiu26545adqs3mrf9i0h8on.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA6If1xFlVbAOzOFWivbUNWHCR2rJZtGzA"
+          "current_key": "AIzaSyBqCzo-zs02GpFTZCAM7c4d6h-qstNZXG4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "838576559798-hh6uljhboeo5oohhmm18r97l140r4rk9.apps.googleusercontent.com",
+              "client_id": "779050210469-b3g3lcn1cjiu26545adqs3mrf9i0h8on.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
