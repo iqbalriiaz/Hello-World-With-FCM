@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Hello World With FCM</string>
-    <string name="button1_text">Button 1</string>
-    <string name="button2_text">Button 2</string>
-    <string name="default_text">Click Button-1 to Reveal Text</string>
+    <string name="button1_text">Click me</string>
+    <string name="button2_text">Send Notification</string>
+    <string name="default_text">Surprises are life\'s playful winks.</string>
+    <string name="changed_text">Hello, World!</string>
+
 </resources>
